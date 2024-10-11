@@ -11,7 +11,7 @@
 //Dag Ohlin
 
 
-//------------------interaction funks------------------
+//-----------------interaction funks-----------------
 
 //initalizes the list by allcoating with mem_alloc for the desired size "size"; it is up to user to 
 //calculate size of each node(sizeof(node) * amount)
